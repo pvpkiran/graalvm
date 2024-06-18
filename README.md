@@ -1,5 +1,5 @@
 # Getting Started
-  Trying out Springboot support for graalvm native image.  
+  Trying out Springboot support for graalvm native image(including hints registrar)
 
 ### Guides
 The following guides illustrate how to use some features concretely:
